@@ -3,6 +3,6 @@
         "prefix": "add_progressbar",
         "description": "add a progressbar with label ",
         "scope": "html",
-        "body": ["<label for='${1:file}'>'${2:progress}'</label>,<progress id='${3:file}' value='${4:10}' max='${5:100}'> '${6:100%}' </progress>"]
+        "body": ["<label for='${1:file}'>${2:progress}</label> <progress id='${3:file}' value='${4:10}' max='${5:100}'> ${6:10%} </progress>"]
     }
 }
