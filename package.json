@@ -19,9 +19,11 @@
     "bugs": {
         "url": "https://github.com/congnguyendinh0/html-progressbar/issues"
     },
-    "icon": "images/html-progressbar-logo.webp",
+    "icon": "images/html-progressbar-logo.png",
     "keywords": [
         "progressbar",
+        "progress bar",
+        "html progress bar",
         "html5",
         "html progressbar",
         "html snippet",
