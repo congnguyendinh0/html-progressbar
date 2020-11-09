@@ -1,0 +1,43 @@
+{
+    "name": "html-progressbar",
+    "displayName": "html-progressbar",
+    "description": "add code snippet for building a progressbar with html ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "publisher": "congnguyendinh0",
+    "author": {
+        "name": "Cong Nguyen Dinh"
+    },
+    "license": "MIT",
+    "homepage":"https://github.com/congnguyendinh0/html-progressbar",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/congnguyendinh0/html-progressbar"
+    },
+    "bugs": {
+        "url": "https://github.com/congnguyendinh0/html-progressbar/issues"
+    },
+    "icon": "images/html-progressbar-logo.webp",
+    "keywords": [
+        "progressbar",
+        "html5",
+        "html progressbar",
+        "html snippet",
+        "progress element",
+        "html progress",
+        "code snippet"
+    ],
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
