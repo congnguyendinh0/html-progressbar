@@ -2,8 +2,6 @@
 
 This adds a progress bar to your HTML file.Inserts a progress html5 element snippet with label into your existing HTML file.<progress> 
 
-
-
 ## Features
 
 * type add_progressbar to add a progress bar with label.
