@@ -15,5 +15,5 @@ This adds a progress bar to your HTML file.Inserts a progress html5 element snip
 
 Initial release of html-progressbar
 
-
+![example](./images/example-html-progress-bar.gif)
 -----------------------------------------------------------------------------------------------------------
